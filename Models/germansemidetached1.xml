@@ -7,9 +7,9 @@
 	<model>
 		<path>Aircraft/Swampys/Models/smoke.xml</path>
 		<offsets>
-			<x-m>0.0</x-m>
-            <y-m>4.215</y-m>
-            <z-m>8.06270</z-m>
+			<x-m>4.07192</x-m>
+            <y-m>0.0</y-m>
+            <z-m>7.455254</z-m>
 			<pitch-deg>0</pitch-deg>
 		</offsets>
 	</model>
@@ -17,9 +17,9 @@
 	<model>
 		<path>Aircraft/Swampys/Models/fire.xml</path>
 		<offsets>
-			<x-m>0.0</x-m>
-            <y-m>4.215</y-m>
-            <z-m>8.0627</z-m>
+			<x-m>4.07192</x-m>
+            <y-m>0.0</y-m>
+            <z-m>7.455254</z-m>
 			<pitch-deg>0</pitch-deg>
 		</offsets>
 	</model>
@@ -27,9 +27,9 @@
 	<model>
 		<path>Aircraft/Swampys/Models/smoke.xml</path>
 		<offsets>
-			<x-m>16.28</x-m>
-            <y-m>4.215</y-m>
-            <z-m>8.0627</z-m>
+			<x-m>12.24015</x-m>
+            <y-m>0.0</y-m>
+            <z-m>7.475111</z-m>
 			<pitch-deg>0</pitch-deg>
 		</offsets>
 	</model>
@@ -37,9 +37,49 @@
 	<model>
 		<path>Aircraft/Swampys/Models/fire.xml</path>
 		<offsets>
-			<x-m>16.28</x-m>
-            <y-m>4.215</y-m>
-            <z-m>8.0627</z-m>
+			<x-m>12.24015</x-m>
+            <y-m>0.0</y-m>
+            <z-m>7.475111</z-m>
+			<pitch-deg>0</pitch-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Aircraft/Swampys/Models/smoke.xml</path>
+		<offsets>
+			<x-m>12.20808</x-m>
+            <y-m>8.430</y-m>
+            <z-m>7.45254</z-m>
+			<pitch-deg>0</pitch-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Aircraft/Swampys/Models/fire.xml</path>
+		<offsets>
+			<x-m>12.20808</x-m>
+            <y-m>8.430</y-m>
+            <z-m>7.45254</z-m>
+			<pitch-deg>0</pitch-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Aircraft/Swampys/Models/smoke.xml</path>
+		<offsets>
+			<x-m>4.03985</x-m>
+            <y-m>4.430</y-m>
+            <z-m>7.47510</z-m>
+			<pitch-deg>0</pitch-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Aircraft/Swampys/Models/fire.xml</path>
+		<offsets>
+			<x-m>4.03985</x-m>
+            <y-m>4.430</y-m>
+            <z-m>7.47510</z-m>
 			<pitch-deg>0</pitch-deg>
 		</offsets>
 	</model>

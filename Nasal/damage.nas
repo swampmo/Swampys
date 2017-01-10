@@ -29,7 +29,7 @@ var cannon_types = {
     " GAU-8/A hit":           10.00, #a-10
     " BK27 cannon hit":       3.50, #typhoon
     " GSh-30 hit":            3.00, #mig-21
-    " 7.62 hit":              2.50, #p-47
+    " 7.62 hit":              2.50, #UH-1
     " 50 BMG hit":            3.00, #p-47
 };
     

@@ -3,7 +3,7 @@ var clamp = func(v, min, max) { v < min ? min : v > max ? max : v }
 var TRUE  = 1;
 var FALSE = 0;
 
-var hp = 800;
+var hp = 50;
 var hp_max = hp;
 
 #
@@ -75,8 +75,8 @@ var warhead_lbs = {
     "R-60":                  6.60,
     "R-27R1":               85.98,
     "R-27T1":               85.98,
-	 "FAB-500":		           564.00,
-	"M71R":                200.00,
+	  "FAB-500":		           564.00,
+	  "M71R":                200.00,
 };
 
 var incoming_listener = func {
